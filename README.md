@@ -36,7 +36,11 @@ Hacker, Espresso Astronaut 👨‍🚀 and Pet Parent 🐈</h3>
    <img src="https://rescript-lang.org/static/brand/rescript-brandmark.svg" width="40" height="40"/> 
    <img src="https://ocaml.org/img/OCaml_Sticker.svg" width="40" height="40"/> 
 </p>
+
 <p align="center">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calba5141114&layout=compact&hide=html"  />
 </p>
+
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calba5141114&show_icons=true" /></p>
