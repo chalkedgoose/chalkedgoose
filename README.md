@@ -39,8 +39,6 @@ Hacker, Espresso Astronaut 👨‍🚀 and Pet Parent 🐈</h3>
 
 <p align="center">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calba5141114&layout=compact&hide=html"  />
+     <img style="margin-top: 10px;" align="center" src="https://github-readme-stats.vercel.app/api?username=calba5141114&show_icons=true" />
 </p>
 
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calba5141114&show_icons=true" /></p>
