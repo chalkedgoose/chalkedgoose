@@ -1,3 +1,6 @@
+The Second Techkuache [@Cruz-Martinez](https://github.com/Cruz-Martinez)
+is the first one.
+
 <img align="center" src="kittenhub.gif" />
 
  **You're welcome to hang out, read some code, or just 
