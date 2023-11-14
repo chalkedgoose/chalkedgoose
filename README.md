@@ -1,23 +1,19 @@
 <img align="center" src="kittenhub.gif" />
 
-**You're welcome to hang out, read some code, or just 
-reach out using the contact info on my Github.**
+**Feel free to hang out, explore some code, or reach out via the contact information on my Github profile.**
 
-##### Here are some of my favorite waiting room hits
+##### My Favorite Waiting Room Reads
 1. [The Javascript Problem](https://wiki.haskell.org/The_JavaScript_Problem)
-2. [ReScript – the language after TypeScript?](https://blog.codecentric.de/en/2021/01/rescript-compare-typescript-elm)
+2. [ReScript – The Language After TypeScript?](https://blog.codecentric.de/en/2021/01/rescript-compare-typescript-elm)
 3. [New Haskell-Based Web App Specification Language Released in Alpha](https://www.infoq.com/news/2021/01/webapp-specification-language)
 4. [Build 2020 Recap](https://microsoft.github.io/react-native-windows/blog/2020/06/01/build2020recap)
 5. [Top 8 JavaScript Automation Testing Frameworks In 2019](https://dev.to/arnabroychowdhury/top-8-javascript-automation-testing-frameworks-in-2019-32dk)
 
 ##### Configurations and Apps
 
-I am a fan of the [Arc Browser](https://arc.net/) I have only started using 
-it recently but it is a solid way to keep track of a bunch of contexts. 
-I switch between Github, Discord, Slack and a bunch of other contexts 
-when working day to day and find it useful.
+I'm a fan of [Arc Browser](https://arc.net/). Though I've only recently started using it, it's proven to be a solid way to manage multiple contexts. I frequently switch between Github, Discord, Slack, and other platforms in my day-to-day work and find it incredibly useful.
 
-[Neofetch](https://github.com/dylanaraps/neofetch) Results 
+[Neofetch](https://github.com/dylanaraps/neofetch) Results:
 ```txt
 OS: macOS 13.5.1 22G90 arm64
 Shell: fish 3.6.1
@@ -30,18 +26,18 @@ GPU: Apple M1 Pro
 Memory: 2697MiB / 16384MiB
 ```
 
-[Amethyst](https://ianyh.com/amethyst/) has worked well for me I tried using [Yabai](https://github.com/koekeishiya/yabai) and a couple of 
-other wms for Mac but I found Amethyst just makes sense to me.
-It's a bit inconsquential with smaller screens but if you work 
-at a Desk sometimes it's nice to have to take advantage of the space. 
-I also no longer need to awkardly drop a window into position.
+I have had a good experience with [Amethyst](https://ianyh.com/amethyst/). 
+I tried [Yabai](https://github.com/koekeishiya/yabai) and a few other window managers for Mac,
+but Amethyst resonates with me. It's somewhat inconsequential on smaller screens,
+but if you work at a desk, it's nice to take advantage of the extra space.
+Plus, I no longer need to awkwardly position windows.
 
-[Wezterm](https://github.com/wez/wezterm) as a neovim user and fan of lua for programatically configuring apps
-I really like how easy wezterm is to configure and it feels a lot snappier compared to [iTerm2](https://iterm2.com/)
-which would sometimes freeze or have graphical issues with neovim tabs.
+As a Neovim user and a fan of Lua for programmatically configuring apps,
+I really appreciate how user-friendly [WezTerm](https://github.com/wez/wezterm) is.
+It's a lot snappier than [iTerm2](https://iterm2.com/),
+which would sometimes freeze or experience graphical issues with Neovim tabs.
 
-I use [fish](https://fishshell.com/) in place of zsh or bash I like it 
-for no particular reason.
+I prefer [fish](https://fishshell.com/) shell over zsh or bash for no particular reason.
 
 ```lua 
 local wezterm = require 'wezterm'
@@ -64,8 +60,8 @@ config.window_background_opacity = 0.9
 return config
 ```
 
-Some settings from [neovim](https://neovim.io/) base.lua file for neovim. I won't share exact plugins or my dotfiles 
-but here are some settings I like. 
+Here are some settings from my [Neovim](https://neovim.io/) base.lua file. I prefer not to share my exact plugins or dotfiles, 
+but these are some settings that I particularly enjoy.
 ```lua 
 -- Clear any existing autocmds in the 'ClearAutocmds' augroup
 -- This is a good practice to avoid multiple autocmds being defined accidentally
@@ -135,7 +131,7 @@ vim.o.foldenable = true
 
 ##### Caffeine (Mostly Coffee) 
 
-Daily drivers but I have more gear than this.
+My daily drivers, though I have more gear:
 
   - Rocket Appartamento
   - Clever Dripper 
